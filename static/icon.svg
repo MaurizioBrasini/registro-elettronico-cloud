@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="96" fill="#002FA7"/>
+  <g transform="translate(96 112)">
+    <!-- Book / register icon -->
+    <rect x="8" y="8" width="304" height="272" rx="12" fill="#FFFFFF"/>
+    <rect x="8" y="8" width="304" height="48" fill="#00227A"/>
+    <rect x="48" y="80" width="224" height="10" rx="4" fill="#CBD5E1"/>
+    <rect x="48" y="108" width="180" height="10" rx="4" fill="#CBD5E1"/>
+    <rect x="48" y="136" width="224" height="10" rx="4" fill="#CBD5E1"/>
+    <rect x="48" y="164" width="160" height="10" rx="4" fill="#CBD5E1"/>
+    <!-- Grade circle -->
+    <circle cx="240" cy="216" r="36" fill="#002FA7"/>
+    <text x="240" y="232" font-family="Arial Black, sans-serif" font-size="44" font-weight="900" fill="#FFFFFF" text-anchor="middle">10</text>
+  </g>
+  <text x="256" y="450" font-family="Arial Black, sans-serif" font-size="56" font-weight="900" fill="#FFFFFF" text-anchor="middle" letter-spacing="2">REGISTRO</text>
+</svg>
